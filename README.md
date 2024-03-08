@@ -1,4 +1,4 @@
-# MedicalQuessionsAgent
+# MedicalQuestionsAgent
 
 Originated from:
 https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/
