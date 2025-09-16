@@ -224,12 +224,6 @@ streamlit run app.py
 
 ---
 
-## License
-
-MIT (or choose your own). Add a `LICENSE` file if needed.
-
----
-
 ## Acknowledgments
 
 * [LlamaIndex](https://www.llamaindex.ai/)
@@ -238,5 +232,3 @@ MIT (or choose your own). Add a `LICENSE` file if needed.
 * [Streamlit](https://streamlit.io/)
 
 ---
-
-If you want, I can also generate a ready-to-go `requirements.txt`, a minimal `app.py` header, or a Dockerfile.
